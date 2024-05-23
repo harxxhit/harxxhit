@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm HARSHIT! 👋
 
-<!--
-**harxxhit/harxxhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub playground, where lines of code meet creativity, and learning never stops. I'm a dedicated in all software development technology based in Delhi, passionate about crafting elegant solutions to real-world problems and staying on the cutting edge of technology.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive in a diverse tech stack, constantly honing my skills in:
+
+- *Languages:* C, C++, Python, HTML, CSS, JavaScript, Java, PhP, Flotter
+- *Frameworks:* React, Tailwind CSS, Bootstrap, Dart, Laveral
+- *Databases:* MySQL
+- *Tools:* Git, VSCode, Android Studio, Intellij Idea, WordPress
+
+Feel free to explore my repositories to see the diverse projects where I've applied these technologies.
+
+## 🌱 Current Focus
+
+In my current journey, I'm delving deep into the world of Web Development, exploring the nuances of recognition on basis of AR and VR technology. This curiosity-driven path fuels my desire to tackle new challenges and contribute to meaningful projects.
+
+## 🚀 Projects
+
+Here are some projects I'm particularly proud of:
+
+1. *[CodeBooter]((https://github.com/harxxhit/Codebooter.git)):* About
+CodeBooter is a computer science portal where you can prepare for your tech interviews as well as if you are CSE enthusiast then you can learn cs from here you can get every material you need.
+2. *[OTES](https://github.com/silentknight-sudo/OTES.git):* It is one touch emergency service applications.
+
+## 🤝 Let's Connect
+
+I value collaboration and enjoy connecting with like-minded individuals. You can find me on:
+
+- *LinkedIn:*  [@harxxhit](www.linkedin.com/in/harxxhit)
+- *Instagram:* [@_harxhit_](https://www.instagram.com/_harxhit_/)
+- *Portfolio:* [Harshit Gupta]()
+
+Feel free to reach out for collaboration, discussions, or just a virtual coffee chat!
+
+Thanks for stopping by! Explore my repositories, contribute, and let's build something amazing together. 🚀
