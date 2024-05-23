@@ -21,7 +21,7 @@ In my current journey, I'm delving deep into the world of Web Development, explo
 
 Here are some projects I'm particularly proud of:
 
-1. *[CodeBooter]((https://github.com/harxxhit/Codebooter.git)):* About
+1. **[CodeBooter](https://github.com/harxxhit/Codebooter.git):** About
 CodeBooter is a computer science portal where you can prepare for your tech interviews as well as if you are CSE enthusiast then you can learn cs from here you can get every material you need.
 2. *[OTES](https://github.com/silentknight-sudo/OTES.git):* It is one touch emergency service applications.
 
