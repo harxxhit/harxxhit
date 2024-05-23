@@ -6,7 +6,7 @@ Welcome to my GitHub playground, where lines of code meet creativity, and learni
 
 I thrive in a diverse tech stack, constantly honing my skills in:
 
-- *Languages:* C, C++, Python, HTML, CSS, JavaScript, Java, PhP, Flotter
+- *Languages:* C, C++, Python, HTML, CSS, JavaScript, Java, PhP, Flutter
 - *Frameworks:* React, Tailwind CSS, Bootstrap, Dart, Laveral
 - *Databases:* MySQL
 - *Tools:* Git, VSCode, Android Studio, Intellij Idea, WordPress
@@ -29,7 +29,7 @@ CodeBooter is a computer science portal where you can prepare for your tech inte
 
 I value collaboration and enjoy connecting with like-minded individuals. You can find me on:
 
-- *LinkedIn:*  [@harxxhit](www.linkedin.com/in/harxxhit)
+- *LinkedIn:*  [@harxxhit](https://www.linkedin.com/in/harxxhit/)
 - *Instagram:* [@_harxhit_](https://www.instagram.com/_harxhit_/)
 - *Portfolio:* [Harshit Gupta]()
 
