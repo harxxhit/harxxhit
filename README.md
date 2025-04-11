@@ -6,7 +6,7 @@ Welcome to my GitHub playground, where lines of code meet creativity, and learni
 
 I thrive in a diverse tech stack, constantly honing my skills in:
 
-- *Languages:* C, C++, Java Python, HTML, CSS, JavaScript.
+- *Languages:* C, C++, Java, Python, HTML, CSS, JavaScript.
 - *Frameworks:* Tailwind CSS, Bootstrap, Flask
 - *Databases:* MySQL, MongoDB
 - *Tools:* Git, VSCode, Intellij Idea, Linux
