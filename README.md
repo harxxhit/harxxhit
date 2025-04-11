@@ -6,10 +6,10 @@ Welcome to my GitHub playground, where lines of code meet creativity, and learni
 
 I thrive in a diverse tech stack, constantly honing my skills in:
 
-- *Languages:* C, C++, Python, HTML, CSS, JavaScript, Java, PhP, Flutter
-- *Frameworks:* React, Tailwind CSS, Bootstrap, Dart, Laveral
-- *Databases:* MySQL
-- *Tools:* Git, VSCode, Android Studio, Intellij Idea, WordPress
+- *Languages:* C, C++, Java Python, HTML, CSS, JavaScript.
+- *Frameworks:* Tailwind CSS, Bootstrap, Flask
+- *Databases:* MySQL, MongoDB
+- *Tools:* Git, VSCode, Intellij Idea, Linux
 
 Feel free to explore my repositories to see the diverse projects where I've applied these technologies.
 
